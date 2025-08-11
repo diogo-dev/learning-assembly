@@ -16,8 +16,12 @@ The present work aims to develop a CRUD system for inventory control of a superm
 # How the application works?
 When the executable file is running, the terminal will display a menu of options to the user, as shown in the image below:
 
+<p align="center">
+  <img src="/Screenshot_1.png" alt="User menu options" width="400" />
+</p>
+
 As you can see, the user actions are pretty simple. He/she needs to insert the number that corresponds to the chosen option. 
 
-To a more specific explanation, I suggest you to read the documentation in the "./relatorios" folder.
+To a more specific explanation, I suggest you to read the documentation (./relatorioAssembly.pdf, ./relatorioAssembly2.pdf).
 
 In addition, the code is strongly commented which makes it easy to understand its functionality.
