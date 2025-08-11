@@ -3,7 +3,7 @@
 -  The final project is located inside the folder called "./trabalho"
 -  You can ignore the other folders as it contain the basics of the language.
 
-The present work aims to develop a CRUD system for inventory control of a supermarket. This system will be responsible for performing basic operations on the products available in this supermarket. The operations implemented in this work are as follows:
+The final project aims to develop a CRUD system for inventory control of a supermarket. This system will be responsible for performing basic operations on the products available in this supermarket. The operations implemented in this work are as follows:
 
 - Product insertion
 - Product removal
